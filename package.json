@@ -1,0 +1,11 @@
+{
+  "name": "com.taotenquan.test",
+  "version": "1.0.0",
+  "displayName": "test",
+  "description": "Test package",
+  "unity": "2020.3",
+  "author": {
+    "name": "taotenquan",
+    "email": "ninhhongquan987@gmail.com"
+  }
+}
